@@ -1,4 +1,4 @@
-# Hi, I'm Joel 👋
+# Hi, I'm Joel
 
 I'm a Computer Science and Mathematics student at Tufts University interested in software engineering, systems, and applied machine learning.
 
