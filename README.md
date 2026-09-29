@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joel 👋
 
-<!--
-**joellawore/joellawore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Mathematics student at Tufts University interested in software engineering, systems, and applied machine learning.
 
-Here are some ideas to get you started:
+### Selected work
+- **Readability Classification** — NLP classification with grouped cross-validation and leakage analysis
+- **Skin-Lesion Classification** — tabular + image-feature modeling with patient-grouped evaluation
+- **Tufts SIS Modern** — modular redesign of Tufts' PeopleSoft interface
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building distributed systems in CS 117
+- Exploring software engineering and forward-deployed engineering roles
+
+[Portfolio](YOUR-URL) · [LinkedIn](YOUR-LINK)
